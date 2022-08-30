@@ -2,7 +2,4 @@ python-socketio
 uvicorn
 setuptools==63.1.0
 num2words
-uvloop
-openpyxl
-gunicorn
-httptools
+
